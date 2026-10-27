@@ -1,0 +1,18 @@
+CV Assignment 1 Statistics
+
+Template dimensions: [339, 368, 3]
+Scene dimensions: [738, 1600, 3]
+Template keypoints: 672
+Scene keypoints: 2231
+Raw candidate matches: 2231
+Lowe accepted matches: 310
+Lowe rejected matches: 1921
+Hough hypotheses: 310
+Hough clusters: 18
+RANSAC models tested: 45022
+Detections before NMS: 9
+Detections after NMS: 3
+
+Detection 1: {'hough_votes': 37, 'candidate_matches': 37, 'inlier_count': 35, 'outlier_count': 2, 'inlier_ratio': 0.9459459459459459, 'mean_reprojection_error': 1.2333502755365526, 'max_reprojection_error': 21.78856733293041, 'affine_determinant': 1.490238945430769, 'estimated_scale': 1.2207534335117673, 'estimated_rotation_degrees': -170.98980843045462, 'bbox_xyxy': [910.2572654710216, 285.6799370427033, 1464.8656800739825, 723.0870069736253], 'confidence_score': 38.63833248622318, 'models_tested': 2909, 'all_errors_available': True}
+Detection 2: {'hough_votes': 13, 'candidate_matches': 13, 'inlier_count': 13, 'outlier_count': 0, 'inlier_ratio': 1.0, 'mean_reprojection_error': 2.567241114173693, 'max_reprojection_error': 5.08205309305973, 'affine_determinant': 0.5398091757400737, 'estimated_scale': 0.7347170718991588, 'estimated_rotation_degrees': 24.102567290452324, 'bbox_xyxy': [698.0939113130254, 20.547026974600612, 1150.4458903909922, 309.70069131172164], 'confidence_score': 14.171637944291316, 'models_tested': 3000, 'all_errors_available': True}
+Detection 3: {'hough_votes': 11, 'candidate_matches': 11, 'inlier_count': 11, 'outlier_count': 0, 'inlier_ratio': 1.0, 'mean_reprojection_error': 1.067634622829379, 'max_reprojection_error': 1.9636653753100806, 'affine_determinant': 0.8701288686605553, 'estimated_scale': 0.932806983604087, 'estimated_rotation_degrees': 146.4326449503787, 'bbox_xyxy': [109.12661770519253, 128.0886902111911, 626.3303969655269, 547.6151828595214], 'confidence_score': 12.04661826885853, 'models_tested': 2981, 'all_errors_available': True}
